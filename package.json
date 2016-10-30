@@ -1,0 +1,22 @@
+{
+  "name": "gettype",
+  "version": "1.0.0",
+  "description": "get the type of any value in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bvenkatr/getType.git"
+  },
+  "keywords": [
+    "typeof"
+  ],
+  "author": "bvenkatr2@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bvenkatr/getType/issues"
+  },
+  "homepage": "https://github.com/bvenkatr/getType#readme"
+}
